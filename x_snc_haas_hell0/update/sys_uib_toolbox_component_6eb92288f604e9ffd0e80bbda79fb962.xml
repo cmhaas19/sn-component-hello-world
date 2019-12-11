@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description>A simple hello world component</description>
+        <icon>chat-fill</icon>
+        <label>Hello World</label>
+        <macroponent display_value="Hello World">2e706a972aac4f0b84d416a6910283e6</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:05</sys_created_on>
+        <sys_id>6eb92288f604e9ffd0e80bbda79fb962</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World</sys_name>
+        <sys_package display_value="sn-component-hello-world" source="x_snc_haas_hell0">8e905176db210010a4f0f4eabf9619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn-component-hello-world">8e905176db210010a4f0f4eabf9619fb</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_6eb92288f604e9ffd0e80bbda79fb962</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 19:28:05</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>

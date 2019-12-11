@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <data/>
+        <events/>
+        <extends/>
+        <interactions/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Hello World</name>
+        <props>[]</props>
+        <root_component display_value="sn-hello-world">437ee2a7b452854bc52ae3174539b79b</root_component>
+        <root_component_config>{}</root_component_config>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:05</sys_created_on>
+        <sys_id>2e706a972aac4f0b84d416a6910283e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World</sys_name>
+        <sys_package display_value="sn-component-hello-world" source="x_snc_haas_hell0">8e905176db210010a4f0f4eabf9619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn-component-hello-world">8e905176db210010a4f0f4eabf9619fb</sys_scope>
+        <sys_update_name>sys_ux_macroponent_2e706a972aac4f0b84d416a6910283e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 19:28:05</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

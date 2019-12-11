@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_source_script">
+    <sys_ux_lib_source_script action="INSERT_OR_UPDATE">
+        <externals/>
+        <inner_components/>
+        <name>sn-component-hello-world</name>
+        <script/>
+        <script_link/>
+        <sys_class_name>sys_ux_lib_source_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:05</sys_created_on>
+        <sys_id>3be312a95158faa29f5d5bee2959d53c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn-component-hello-world</sys_name>
+        <sys_package display_value="sn-component-hello-world" source="x_snc_haas_hell0">8e905176db210010a4f0f4eabf9619fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sn-component-hello-world">8e905176db210010a4f0f4eabf9619fb</sys_scope>
+        <sys_update_name>sys_ux_lib_source_script_3be312a95158faa29f5d5bee2959d53c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-09 19:28:05</sys_updated_on>
+        <type>attachment</type>
+    </sys_ux_lib_source_script>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>application/javascript; charset=utf-8</content_type>
+        <encryption_context/>
+        <file_name>sn-component-hello-world.min.js</file_name>
+        <hash>5ad24e97b8245158dbdf6af5217835530867bd3c9bc9e67a34fea65b5b0dea79</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1377</size_bytes>
+        <size_compressed>618</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:06</sys_created_on>
+        <sys_id>be90d93adbe50010466a9646db9619e9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-12-09 19:28:07</sys_updated_on>
+        <table_name>sys_ux_lib_source_script</table_name>
+        <table_sys_id>3be312a95158faa29f5d5bee2959d53c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="sn-component-hello-world.min.js" sys_id="be90d93adbe50010466a9646db9619e9">be90d93adbe50010466a9646db9619e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:06</sys_created_on>
+        <sys_id>fe90d93adbe50010466a9646db9619e9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>lVNRa9swEP4rjhjGAtWkXR+KjdhDKWwPWwYN7KEE49iX1kPWBVluF1z9950cO17SlDIIiSLdd3ffd9/NNq0ubIU6At495yawsnPpeBnoyPCu2kT2way4AdsaHfhzDH+2aGyTeghKfyW7KjFCJbNLMTwmnXPpAAIPKnKlIhyxAsV01pz+KDmbT3dOx7UEoeNCWvou5dSqsIL60jH6I399Xax/Q2HjEjaVhp8Gt2Dsrg/rQLc1mHytIKHkj2AT47ijfEb+S521eo8u2Uza3RZwE9zv6jWqMNz/xhbvran04zJ/DMP3Kr6NFSSraiFh37FsFTDHxXtglmXQDGEjbDbft2uP6PdDuQxtGEYgPQEubkI7TghSer32rwz7UkyOnCAM/SeeKk0gP0sjh+YKA7mFSLdKcZ+OBCMvvNO6EYxu8lZZdqr4ngUQ66u+oabXZRIZ+AZN1NsoqKgLTpOmfCgOdInswUR25eJ1pcu+L4Gcj/4yXiMt37r5hO2XQ8SUNR56d8mZx4ODfV9WsJyR+sL6cngykiFwkGhr0KInGT/lzeJFj2Ltt8ADfI6tZExoUreR19xFD8cZYdwFmWXLu9vl4se32yz71EDV1FWRNTpfr0usMwPkXgMkwn/hCzRwDKE9pFVoIPBjIt+kOprzwRj+KPBI4lGkE40h6QZJafCObJNGcyJ5yQdX3baNxfpOQQ3a8og1+uIJlMKLFzSqJAuNfJLOC5jgYULiuYKX5JzsVMEM6afEZfVM6nqrfPDMvvr6wS9ff8Y4d37pPhDm6kzIJLiOPnO34ulfQUkEomEFAAA=</data>
+        <length>812</length>
+        <position>1</position>
+        <sys_attachment display_value="sn-component-hello-world.min.js" sys_id="be90d93adbe50010466a9646db9619e9">be90d93adbe50010466a9646db9619e9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 19:28:06</sys_created_on>
+        <sys_id>7290d93adbe50010466a9646db9619ea</sys_id>
+    </sys_attachment_doc>
+</record_update>
